@@ -13,6 +13,7 @@
 		DBD0E9DD1AEA4D3400F0129A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBD0E9DC1AEA4D3400F0129A /* Images.xcassets */; };
 		DBD0E9E01AEA4D3400F0129A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = DBD0E9DE1AEA4D3400F0129A /* LaunchScreen.xib */; };
 		DBD0E9EC1AEA4D3400F0129A /* Count_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBD0E9EB1AEA4D3400F0129A /* Count_AppTests.swift */; };
+		DBD0E9F61AEA4EAF00F0129A /* haikei.png in Resources */ = {isa = PBXBuildFile; fileRef = DBD0E9F51AEA4EAF00F0129A /* haikei.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		DBD0E9E51AEA4D3400F0129A /* Count_AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Count_AppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBD0E9EA1AEA4D3400F0129A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DBD0E9EB1AEA4D3400F0129A /* Count_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Count_AppTests.swift; sourceTree = "<group>"; };
+		DBD0E9F51AEA4EAF00F0129A /* haikei.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = haikei.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				DBD0E9D51AEA4D3400F0129A /* AppDelegate.swift */,
 				DBD0E9D71AEA4D3400F0129A /* ViewController.swift */,
 				DBD0E9D91AEA4D3400F0129A /* Main.storyboard */,
+				DBD0E9F51AEA4EAF00F0129A /* haikei.png */,
 				DBD0E9DC1AEA4D3400F0129A /* Images.xcassets */,
 				DBD0E9DE1AEA4D3400F0129A /* LaunchScreen.xib */,
 				DBD0E9D31AEA4D3400F0129A /* Supporting Files */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DBD0E9F61AEA4EAF00F0129A /* haikei.png in Resources */,
 				DBD0E9DB1AEA4D3400F0129A /* Main.storyboard in Resources */,
 				DBD0E9E01AEA4D3400F0129A /* LaunchScreen.xib in Resources */,
 				DBD0E9DD1AEA4D3400F0129A /* Images.xcassets in Resources */,
